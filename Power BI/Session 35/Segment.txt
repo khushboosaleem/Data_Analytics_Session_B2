@@ -1,0 +1,8 @@
+1 = Consumer
+2 = Home Office
+3 = Corporate
+
+
+Sales by category
+Sales by Region
+Sales by Segments
