@@ -1,0 +1,22 @@
+Session 39:
+
+Question?
+1) What were our best and worst selling product?
+2) What was the Contribution margin(CM) per product?
+3) What were the sales revenue, profit, and profit margin per category and product?
+4) Who were our most frequent customer?
+5) Who most Profitable customer?
+6) From which categories did each customer purchase? And in what quantity?
+
+
+
+Answer:
+1) select quantity and product name.
+2) Contribution Margin = [Unit Price] - [Unit Cost]
+3) Sales Revenue = [Quantity Sold] * [Unit Price] ,
+Profit = [Quantity Sold] * [Contribution Margin]
+Profit Margin = sum([Profit]) / sum([Sales Revenue])
+4) Select Customer name and transaction 
+5) Select Customer name and profit
+6) In rows select customer name and categories and in column select quantity
+
