@@ -1,0 +1,54 @@
+# Create a new environment:
+
+conda create --name <your_env_name>
+
+# Active an environment:
+
+conda activate <your_env_name>
+
+# To deactive the current environment:
+
+conda deactivate
+
+# Check all environment:
+
+conda env list
+
+# Check all pkg install in the current environment:
+
+pip list
+
+# remove the environment:
+
+conda remove --name <your_env_name> --all
+
+# Check all environment:
+
+conda <your_env_name> list
+
+
+
+
+
+1) Create a project directroy.
+2) open through cmd
+3) Create environment
+4) Activate environment
+5) Install neccssary packages
+# pandas           		# pip install pandas
+# numpy
+# requests
+# beautifulsoup4
+# lxml: recommended for parsing XML/HTML content
+# html5lib: alternate parser for beautifulsoup
+# selenium
+# webdriver-manager: manages and downloads web drivers automatically(recommended,for auto-updates)
+# jupyter: installs the main components of the jupyter ecosystem
+# ipykernel: to create a jupyter kernel for an environment
+
+6) Create an appropriate jupyter kernel:
+
+python -m ipykernel install --user --name=<your_env_name> --display-name <your_env_display_name>  
+
+
+7) Launch jupyter and create new notebook 

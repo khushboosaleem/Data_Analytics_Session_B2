@@ -1,0 +1,31 @@
+1) Connect the data
+2) check column hierarchy
+3) Profit ration by Geography by using
+create a new calculated field
+profit ratio = sum([Profit])/sum([Sales])
+4) Select column by using ctrl
+state and profit ratio
+5) filter rag region and profit also show in filter so click on profit ratio and add in filters
+6) Area Chart sales by catergory and
+sales by segment by using order date and sales
+click on order date after selecting
+select month after creating hold down cntl profit order date right click 
+on profit create LOD Location jo bhi
+formula h > 0 lekhna h or oska name
+order Profitable? rakhna h
+and click on select alises values rewrite
+false waly column unprofitable 
+true waly column m Profitable
+order profitble click acending dropdown
+select Manual select profitable and 
+column Ordre Profitable ko colors m drag krdo
+
+
+
+
+
+
+
+
+
+
